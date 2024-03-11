@@ -487,4 +487,5 @@ docker-compose exec web python3 manage.py loaddata fixture.json
 docker-compose down -v --remove-orphans
 ```
 #   F i n a l _ p r o j e c t  
+ #   F i n a l _ p r o j e c t  
  
